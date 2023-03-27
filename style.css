@@ -1,0 +1,19 @@
+.img {
+  background-color: #000;
+  background-size: cover;
+  height: 650px;
+  object-fit: cover;
+  object-position: 0 0;
+}
+
+.img1 {
+  background-image: url(images/109672.jpg);
+}
+
+.img2 {
+  background-image: url(images/109677.jpg);
+}
+
+.img3 {
+  background-image: url(images/110012.jpg);
+}
